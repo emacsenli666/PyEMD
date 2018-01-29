@@ -1,5 +1,5 @@
 from __future__ import division
-import numpy as np
+import minpy as np
 from scipy.interpolate import Akima1DInterpolator
 
 def cubic_spline_3pts(x, y, T):
