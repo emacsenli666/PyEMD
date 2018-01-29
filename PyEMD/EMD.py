@@ -9,7 +9,7 @@
 from __future__ import division, print_function
 
 import logging
-import numpy as np
+import minpy as np  #to GPU accelerating Numpy 
 
 from scipy.interpolate import interp1d
 from PyEMD.splines import *
