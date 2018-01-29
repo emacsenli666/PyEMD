@@ -1,4 +1,5 @@
-numpy
+minpy
+#numpy
 numpydoc
 scipy>=0.19
 matplotlib
