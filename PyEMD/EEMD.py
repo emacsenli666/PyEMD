@@ -12,7 +12,7 @@
 from __future__ import print_function
 
 import logging
-import numpy as np
+import minpy as np
 
 from multiprocessing import Pool
 
